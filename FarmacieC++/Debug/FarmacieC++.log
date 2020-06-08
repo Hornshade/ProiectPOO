@@ -1,0 +1,8 @@
+﻿  FarmacieC++.cpp
+  Functii.cpp
+D:\Scoala\FarmacieC++\FarmacieC++\Functii.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+D:\Scoala\FarmacieC++\FarmacieC++\Functii.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\Scoala\FarmacieC++\FarmacieC++\Functii.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+D:\Scoala\FarmacieC++\FarmacieC++\Functii.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FarmacieC++.vcxproj -> D:\Scoala\FarmacieC++\Debug\FarmacieC++.exe
